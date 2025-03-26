@@ -1,1 +1,1 @@
-# Project
+# Generative-AI-Mastery-Resources
